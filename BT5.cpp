@@ -3,6 +3,7 @@
 using namespace std;
 int UCLN(int a, int b)
 {
+	//nnnnnnnnnnn
 	if (a==0||b==0){
 		cout<<a+b;
 	}
