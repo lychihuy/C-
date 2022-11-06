@@ -11,6 +11,7 @@ int main ()
 		for (float i=1;i<=n;i++)
 			s=s+(1/i);
 		cout<<"tong la "<<s<<endl;
+	//huy
 	}
 	return 0;
 }
